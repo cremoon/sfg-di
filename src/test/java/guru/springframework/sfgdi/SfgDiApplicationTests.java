@@ -1,10 +1,10 @@
-package guru.springframework.sagdi;
+package guru.springframework.sfgdi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SagDiApplicationTests {
+class SfgDiApplicationTests {
 
 	@Test
 	void contextLoads() {
